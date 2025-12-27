@@ -2,7 +2,7 @@
 
 ## Быстрый старт
 
-⚠️ Для корректной работы тестов и генерации отчётов требуется наличие Allure и Docker.
+Для корректной работы тестов и генерации отчётов требуется наличие Allure и Docker.
 
 - [Инструкция по установке Allure](https://allurereport.org/docs/)
 - [Инструкция по установке Docker](https://docs.docker.com/get-started/get-docker/)
